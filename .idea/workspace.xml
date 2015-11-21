@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a0b1979-ca7c-420a-85db-5188ea02f688" name="Default" comment="fix gitignore and untracking workspace.xml">
+    <list default="true" id="9a0b1979-ca7c-420a-85db-5188ea02f688" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="EffectiveJava.iws" />
@@ -69,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7968128">
-              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -515,7 +515,7 @@
       <option name="number" value="Default" />
       <updated>1448067715018</updated>
       <workItem from="1448067719746" duration="3169000" />
-      <workItem from="1448071421174" duration="2001000" />
+      <workItem from="1448071421174" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="fix gitignore file">
       <created>1448072109244</created>
@@ -535,11 +535,17 @@
       <option name="project" value="LOCAL" />
       <updated>1448072536458</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="untracking workspace.xml">
+      <created>1448074454420</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448074454420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5170000" />
+    <option name="totallyTimeSpent" value="5472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -584,9 +590,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix gitignore file" />
-    <MESSAGE value="untracking workspace.xml" />
     <MESSAGE value="fix gitignore and untracking workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix gitignore and untracking workspace.xml" />
+    <MESSAGE value="untracking workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="untracking workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -672,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -680,7 +686,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7968128">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding />
         </state>
       </provider>
