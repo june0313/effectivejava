@@ -1,4 +1,4 @@
-package rule4_private_constructor;
+package com.wayne.rule4_private_constructor;
 
 /**
  * Created by wayne on 2015. 11. 24..
